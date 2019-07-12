@@ -16,7 +16,7 @@
 
   "use_real_train": true,
   "use_multi_syn": false,
-  "use_fuse": true,
+  "use_fuse": false,
   "use_plane": false,
   "use_render_all": true,
   "use_render_orig": false,
